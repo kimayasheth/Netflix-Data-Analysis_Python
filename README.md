@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Analysis using Python
+# 🎬 Netflix Data Analysis | Python
 
 ## 📌 Project Overview
 
