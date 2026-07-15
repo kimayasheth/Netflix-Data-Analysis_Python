@@ -89,7 +89,7 @@ The analysis provides valuable insights that can help streaming platforms:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Project Preview
 
 > **Add screenshots of your visualizations here**
 
