@@ -91,7 +91,6 @@ The analysis provides valuable insights that can help streaming platforms:
 
 ## 📷 Project Preview
 
-> **Add screenshots of your visualizations here**
 
 ### 📊 Movies vs TV Shows
 
