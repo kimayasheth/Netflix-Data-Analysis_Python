@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing Netflix's content library using Python to uncover trends and patterns in movies and TV shows. The analysis involves data cleaning, exploratory data analysis (EDA), and data visualization to gain insights into content distribution, ratings, genres, countries, and release trends.
+This project focuses on analyzing Netflix's content library using Python to uncover trends and patterns in movies and TV shows. The analysis involves data cleaning, exploratory data analysis (EDA), and data visualization to gain insights into content distribution, ratings, countries, and release trends.
 
 ---
 
@@ -95,9 +95,12 @@ The analysis provides valuable insights that can help streaming platforms:
 
 <img width="790" height="552" alt="image" src="https://github.com/user-attachments/assets/4d8e9d7d-1bed-472b-9f30-db82255324e2" />
 
+
+
 ### 📊 Ratings Distribution
 
 <img width="772" height="632" alt="image" src="https://github.com/user-attachments/assets/7d0440ae-1b27-4146-9171-fa52109636c0" />
+
 
 
 ### 📊 Top Countries Producing Content
@@ -105,9 +108,11 @@ The analysis provides valuable insights that can help streaming platforms:
 <img width="862" height="565" alt="image" src="https://github.com/user-attachments/assets/e5ce8311-3a6d-48cd-9eab-0406d1d75c16" />
 
 
+
 ### 📊 Content Released per Year
 
 <img width="811" height="565" alt="image" src="https://github.com/user-attachments/assets/66c9d765-6419-4b85-9e54-19dffcdf7017" />
+
 
 
 ---
