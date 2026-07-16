@@ -14,7 +14,6 @@ With thousands of titles available on Netflix, understanding content distributio
 - Which countries produce the most Netflix content?
 - What are the most common content ratings?
 - How has Netflix's content library grown over the years?
-- Which genres are most popular?
 
 ---
 
@@ -37,7 +36,7 @@ With thousands of titles available on Netflix, understanding content distributio
 - Most Common Rating
 - Top Content Producing Country
 - Content Released per Year
-- Top Genres
+
 
 
 ---
@@ -60,7 +59,6 @@ With thousands of titles available on Netflix, understanding content distributio
 - Ratings Distribution Analysis
 - Top Countries Producing Content
 - Content Release Trend Analysis
-- Genre Distribution Analysis
 - Interactive Data Visualizations using Matplotlib & Seaborn
 
 ---
@@ -72,7 +70,6 @@ With thousands of titles available on Netflix, understanding content distributio
 - **TV-MA** and **TV-14** are the most common content ratings, indicating a strong focus on mature audiences.
 - The **United States** contributes the highest number of Netflix titles.
 - Netflix experienced significant growth in content additions after **2015**.
-- Drama and International Movies are among the most frequently available genres.
 
 ---
 
@@ -134,7 +131,7 @@ The analysis provides valuable insights that can help streaming platforms:
 
 ## 📝 Learning Note
 
-This project was developed to strengthen my Python data analysis skills by working with a real-world dataset. Through this project, I gained hands-on experience in data cleaning, handling missing values, exploratory data analysis (EDA), and creating meaningful visualizations using Pandas, Matplotlib, and Seaborn. It also enhanced my ability to interpret data, identify trends, and generate actionable business insights.
+This guided project was developed to strengthen my Python data analysis skills by working with a real-world dataset. Through this project, I gained hands-on experience in data cleaning, handling missing values, exploratory data analysis (EDA), and creating meaningful visualizations using Pandas, Matplotlib, and Seaborn. It also enhanced my ability to interpret data, identify trends, and generate actionable business insights.
 
 ---
 
