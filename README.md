@@ -38,23 +38,10 @@ With thousands of titles available on Netflix, understanding content distributio
 - Top Content Producing Country
 - Content Released per Year
 - Top Genres
-- Total Unique Directors
+
 
 ---
 
-## 📈 Dashboard Features
-
-- Data Cleaning and Preprocessing
-- Missing Value Handling
-- Duplicate Record Removal
-- Movies vs TV Shows Distribution
-- Ratings Distribution Analysis
-- Top Countries Producing Content
-- Content Release Trend Analysis
-- Genre Distribution Analysis
-- Interactive Data Visualizations using Matplotlib & Seaborn
-
----
 
 ## 🧹 Data Preparation
 
@@ -66,6 +53,18 @@ With thousands of titles available on Netflix, understanding content distributio
 - Prepared the dataset for exploratory data analysis and visualization.
 
 ---
+
+## 📈 Analysis Performed
+
+- Movies vs TV Shows Distribution
+- Ratings Distribution Analysis
+- Top Countries Producing Content
+- Content Release Trend Analysis
+- Genre Distribution Analysis
+- Interactive Data Visualizations using Matplotlib & Seaborn
+
+---
+
 
 ## 📌 Key Insights
 
@@ -94,23 +93,22 @@ The analysis provides valuable insights that can help streaming platforms:
 
 ### 📊 Movies vs TV Shows
 
-(Add Screenshot)
+<img width="790" height="552" alt="image" src="https://github.com/user-attachments/assets/4d8e9d7d-1bed-472b-9f30-db82255324e2" />
 
 ### 📊 Ratings Distribution
 
-(Add Screenshot)
+<img width="772" height="632" alt="image" src="https://github.com/user-attachments/assets/7d0440ae-1b27-4146-9171-fa52109636c0" />
+
 
 ### 📊 Top Countries Producing Content
 
-(Add Screenshot)
+<img width="862" height="565" alt="image" src="https://github.com/user-attachments/assets/e5ce8311-3a6d-48cd-9eab-0406d1d75c16" />
+
 
 ### 📊 Content Released per Year
 
-(Add Screenshot)
+<img width="811" height="565" alt="image" src="https://github.com/user-attachments/assets/66c9d765-6419-4b85-9e54-19dffcdf7017" />
 
-### 📊 Genre Distribution
-
-(Add Screenshot)
 
 ---
 
@@ -138,6 +136,5 @@ This project was developed to strengthen my Python data analysis skills by worki
 ## 📁 Project Files
 
 - 📓 **Netflix Project.ipynb** – Python notebook containing data cleaning, EDA, and visualizations.
-- 📄 **netflix_titles.csv** – Source dataset used for analysis.
-- 🖼️ **Images/** – Screenshots of visualizations used in this README.
+- 📄 **Netflix Dataset.csv** – Source dataset used for analysis.
 - 📘 **README.md** – Project documentation.
